@@ -1,0 +1,2 @@
+git add . // adding stage to all files, folders
+git add index.js only index.js // adding only specific file
